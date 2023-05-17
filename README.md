@@ -16,6 +16,19 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/gkR94v1ok56O
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=maenerosa&theme=ocean-gradient&border_radius=20&card_width=500)](https://git.io/streak-stats)
 
+<picture>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=maenerosa&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=maenerosa&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=maenerosa&show_icons=true" />
+</picture>
+
+<br>
 
 <div align="center>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="20"/>&nbsp;
