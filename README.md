@@ -14,8 +14,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/gkR94v1ok56O
 - :seedling: Exploring Technology.
 - :zap: In my free time, I am coding or playing some music <img src="https://media.giphy.com/media/jGJqX1DjrRpt6WdSqb/giphy.gif" width="20">.
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=maenerosa&theme=dark&border_radius=2&date_format=M%20j%5B%2C%20Y%5D&dates=EBEBEB)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=maenerosa&theme=ocean-gradient&border_radius=20&card_width=500)](https://git.io/streak-stats)
 
 
 <div align="center>
